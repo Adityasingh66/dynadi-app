@@ -1,0 +1,1 @@
+# dynadi-app
